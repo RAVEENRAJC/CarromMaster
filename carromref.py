@@ -66,10 +66,10 @@ st.markdown("<p style='text-align:center;color:#BBBBBB;'>Ask any carrom rule dou
 # ---- Load Rules ----
 rules, embeddings = load_rules("rules.txt")
 
-# ---- Input Box ----
+# ---- User Input ----
 query = st.text_input("Ask your question here:")
 
-# ---- Output ----
+# ---- Answer Box ----
 if query:
     answer, _ = retrieve(query, rules, embeddings)
 
@@ -84,3 +84,4 @@ st.markdown(
     "<div class='footer'>Made by Raveen, a carrom player | Powered by LLM</div>",
     unsafe_allow_html=True
 )
+
