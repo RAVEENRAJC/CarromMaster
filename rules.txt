@@ -1,0 +1,329 @@
+A turn begins when the player places the striker and ends when the striker comes to rest.
+
+Only one hand may be used to strike the striker.
+
+The striker must be placed on or within the baseline area before every shot.
+
+The striker must not be placed touching the arrows or touching a coin.
+
+The striker must be struck only by flicking; pushing the striker is not allowed.
+
+A player may strike with the index finger, middle finger, thumb, or any legal flicking technique.
+
+The striker must move forward, not backward. Backward strike is a foul.
+
+The striker must not be dragged or pushed; it must be released cleanly.
+
+The striker must touch at least one coin to count as a legal shot.
+
+If the striker fails to touch any coin, it is a foul.
+
+If the striker leaves the board, it is a foul.
+
+The striker ends the turn immediately if it is pocketed.
+
+The striker may not touch an opponent’s coin intentionally.
+
+If the striker pockets an opponent’s coin, the coin is returned to the board and a penalty applies.
+
+If the striker pockets the striker itself, it is a foul and one previously pocketed coin must be returned.
+
+If the striker is pocketed while the player also pockets their coin, the pocketed coin stays but the foul penalty still applies.
+
+If a player pockets the striker after pocketing the last coin, the last coin is returned and foul applies.
+
+If a player pockets the queen, they must cover it by pocketing one of their own coins in the same or immediate next turn.
+
+If the queen is not covered, it is returned to the center of the board.
+
+If the last coin is pocketed without covering the queen, the queen is returned to the center.
+
+If the queen is pocketed before any coin of the player is pocketed, the queen is returned.
+
+If a player pockets multiple coins including the queen, the queen still must be covered.
+
+If the queen is pocketed and covered in the same shot, it is valid.
+
+If the queen is pocketed after the last coin, it is considered uncovered and returns to the board.
+
+If a player pockets the opponent’s coin, the opponent’s coin is returned to the board.
+
+If a player pockets their own coin and opponent’s coin together, the opponent’s coin is returned.
+
+If a player pockets no coin, the turn passes to the opponent.
+
+If a player commits a foul, the opponent gets one additional coin placed on the board.
+
+If the player has no pocketed coins to use as penalty, the penalty is postponed until they do.
+
+If a foul occurs while covering the queen, the attempt is invalid and the queen returns.
+
+If a coin jumps off the board, it is a foul. The coin is returned to the center.
+
+If the striker knocks a coin off the board, the coin is returned and foul applies.
+
+If a player uses both hands, it is a foul.
+
+If a player moves the board or alters coin positions intentionally, it is a foul.
+
+If a player accidentally touches any coin with their hand or arm during a shot, it is a foul.
+
+If a coin is touched before striking, it is a foul.
+
+If a player speaks, distracts, or blocks the opponent, it is a foul.
+
+If a player takes more than the allowed time, it is a foul.
+
+If the striker touches the frame and returns without touching any coin, it is a foul.
+
+If the striker spins excessively due to a spin trick that breaks the rules, it may be declared a foul.
+
+If a rebound shot strikes the striker backward into the player’s half before hitting a coin, it is a foul.
+
+If the player hits out of turn, the shot is invalid.
+
+If a player removes a coin before it has stopped moving, it is a foul.
+
+If both players pocket the last coin simultaneously (rare), the board is reset for tie-break.
+
+If the queen and last coin are pocketed in the same shot, the queen must still be covered.
+
+If the queen is pocketed illegally, it is returned to the center.
+
+If coins return to the pocket mouth and stop inside, they count as pocketed.
+
+If coins fall into a pocket due to board tilt or vibration, they are returned and foul applies.
+
+A coin accidentally falling into a pocket during opponent’s play must be restored.
+
+A coin hanging on the pocket rim and then dropping without contact counts as pocketed.
+
+A break shot starts the game.
+
+During break, at least one coin must cross the baseline or touch a pocket; otherwise it is a foul.
+
+If the striker is pocketed on break, foul applies.
+
+If the striker touches the queen during break, it is not a foul.
+
+The queen must be placed exactly in the center position for game start.
+
+Black and white coins must be arranged symmetrically in the circle.
+
+The first break team is decided by toss.
+
+Whoever pockets first gets the color of the first pocketed coin.
+
+The queen may only be “taken” after a player has pocketed at least one of their own coins.
+
+If the queen is pocketed by a player with no coins pocketed yet, the queen returns.
+
+If the queen is covered successfully, the queen is considered safe.
+
+The game ends when a player pockets all their coins after the queen is already covered.
+
+If all coins except the queen remain, the queen must be taken before last coin.
+
+If a player pockets all coins but the queen is uncovered, they continue playing until queen is covered or returned.
+
+If both players are left with one coin each and queen is already covered, the first to pocket wins.
+
+If all coins get clustered and no movement happens for many turns, the referee may reshuffle.
+
+Stalemate rules allow the referee to rearrange coins in a neutral formation.
+
+If the board becomes unplayable due to coin clusters, the referee may restart the board positions.
+
+Each foul requires placing one previously pocketed coin of the player back onto the board.
+
+If the player has zero coins in pocket during foul, the penalty is deferred.
+
+If a player commits multiple fouls in one shot, only one penalty coin is returned.
+
+If the striker is pocketed and the player also knocks a coin off the board, both penalties apply.
+
+Time per shot may be limited in official tournaments.
+
+A player cannot waste time by repeated re-positioning of the striker.
+
+The opponent may appeal to the referee about time violation.
+
+Shots must be taken cleanly without shaking the board.
+
+Coins near the pocket must not be pushed intentionally; they must be struck legally.
+
+If a coin is half-pocketed and leaning, it stays that way unless struck again.
+
+If a player intentionally delays the game, foul applies.
+
+If a player lifts the board or blows on the coins, it is a foul.
+
+If the board surface is damaged or sticky, play must stop until fixed.
+
+No external objects or powder may be added illegally to the board.
+
+Only approved powder may be used.
+
+Powder must not be applied excessively to gain advantage.
+
+Players cannot use two fingers together to push coins.
+
+Coins must not be lifted, rotated, or adjusted manually.
+
+The winning player gets the points equal to opponent’s remaining coins plus queen points if valid.
+
+The queen is worth three points if covered; zero if uncovered.
+
+If both players tie with equal points, another round is played.
+
+Tournament rules may enforce time limits for rounds.
+
+The break alternates between rounds.
+
+Players must maintain proper sitting position and cannot lean over the board excessively.
+
+Referee decisions are final.
+
+Any dispute must be raised immediately after the shot.
+
+Games must be played on standard-size carrom boards.
+
+Coins must be of standard size and weight.
+
+Striker weight must not exceed official limit.
+
+Using a striker heavier than allowed is illegal.
+
+Coins must be wooden or official material.
+
+The game must start only after both players confirm readiness.
+
+Score must be recorded after every board.
+
+A board is complete when one player pockets all coins legally.
+
+Game ends when a player achieves the required winning score (e.g., 25 points or 29 in tournaments).
+
+If the queen is pocketed during the winning shot and covered earlier, the queen counts.
+
+If queen was not covered earlier, the winning shot is invalid.
+
+If the last coin is pocketed illegally, the opponent may get advantage depending on foul.
+
+A player cannot pocket the same coin twice.
+
+A player cannot force the striker through a coin stack illegally.
+
+All shots must obey physics of board; forced presses or table lifts are fouls.
+
+If the striker stops on edge or upright, referee repositions it to flat.
+
+Players must wait until all coins stop moving before taking the next shot.
+
+A coin still spinning is considered “in motion”.
+
+If a player strikes while a coin is still moving, it is a foul.
+
+A player cannot touch the striker after releasing it.
+
+A coin pocketed due to external interference must be restored.
+
+If a referee touches the board accidentally and moves coins, the shot is replayed.
+
+If electricity, wind, or disturbance affects coins, the shot is replayed.
+
+If a scoring mistake is found later, the correct score must be restored.
+
+If a player leaves the match without reason, they forfeit the game.
+
+If a board defect causes disadvantage, players may request board replacement.
+
+Players may not use smartphones or devices during a match.
+
+Spectator interference is not allowed.
+
+Coaching during play is not allowed.
+
+Players must not argue or use abusive language; penalty may apply.
+
+Unsportsmanlike conduct may lead to point deduction.
+
+If a player places the striker touching the baseline or outside the circle illegally, it is a foul.
+
+If a player intentionally blocks opponent’s striking path, it is a foul.
+
+A player cannot rotate the striker on the board before striking.
+
+If the striker hits a coin twice in the same continuous motion, it is allowed unless intentional.
+
+Coins must be returned to the board only at the center spot or appropriate penalty location.
+
+If coins overlap during return, referee adjusts them without advantage.
+
+A foul cannot be appealed after the next shot has begun.
+
+A clean shot does not require a pocket; it only requires striker to hit coins.
+
+If a player plays a rebound shot backwards legally as per tournament rules, it must be forward after rebound.
+
+If a coin falls into pocket due to vibration from another table, it is restored.
+
+If the striker pockets multiple coins, all pocketed coins count except penalties.
+
+If a player covering the queen pockets an opponent’s coin, cover fails.
+
+If multiple queens appear due to errors, the board must be reset.
+
+If striker or coin gets stuck upright, referee adjusts it fairly.
+
+If both players agree to a draw, the board ends in tie unless tournament forbids.
+
+If a player wins by final coin but commits foul in same shot, the shot is invalid.
+
+If the opponent still has coins remaining, winning player gets points equal to remaining coins.
+
+If both players complete the board simultaneously in a rare case, the board is declared draw.
+
+Referee must ensure no external aids like wax, oil, or sticky substances are used.
+
+Coins cannot be warmed, cooled, or modified.
+
+Only one striker per player is allowed.
+
+Players must not switch strikers mid-game.
+
+Practice shots are forbidden during gameplay.
+
+If a player strikes after umpire says “stop,” it is a foul.
+
+If a player intentionally pockets opponent’s coins repeatedly, referee may warn or penalize.
+
+Coins must rest fully inside pocket to count.
+
+Coins stuck in pocket mouth may be gently removed by referee only.
+
+A player cannot shake the table to drop a coin into the pocket.
+
+If a coin returns from the pocket back onto the board, it is not pocketed unless it falls fully inside.
+
+Players may clean striker but cannot alter its weight or texture.
+
+If powder reaches pocket and prevents coins from falling, referee cleans it.
+
+All moves must happen only during the player’s turn.
+
+If a player begins to strike and stops halfway intentionally, it may be allowed unless used to distract.
+
+If a player’s hand crosses into opponent’s side illegally, referee warns.
+
+Any intentional damage to board or coins results in disqualification.
+
+If power outage or interruption occurs, the board situation is restored precisely.
+
+If coins cannot be placed exactly, referee places as close as possible.
+
+If the queen is pocketed illegally after the last coin, the board continues until queen is rightly placed.
+
+Official rules override house rules during tournaments.
+
+Match ends when required number of boards or score limit is reached.
