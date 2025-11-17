@@ -26,12 +26,14 @@ st.markdown(
         margin-bottom: 20px;
     }
     .answer-box {
-        background-color: #fff5e6;
+        background-color: #000;
+        color: #fff;
         padding: 20px;
         border-radius: 12px;
         border-left: 6px solid #ff8c00;
         font-size: 17px;
         margin-top: 10px;
+        border: 1px solid #333;
     }
     .footer {
         text-align: center;
@@ -95,5 +97,6 @@ st.markdown(
     "<div class='footer'>Made by Raveen, a carrom player | Powered by LLM</div>",
     unsafe_allow_html=True
 )
+
 
 
